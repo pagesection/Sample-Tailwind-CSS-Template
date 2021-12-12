@@ -7,6 +7,6 @@ We will aim at creating and delivering HTML templates that can be edited using t
 
 <p align="center">
   <a href="https://pagesection.com/editor" target="_blank">
-    <img alt="Sample GIF showing the HTML Editor by PageSection" src="https://raw.githubusercontent.com/pagesection/Public-Assets/main/temp-gif-2%20(faster%2C%20optimized).gif" width="749">
+    <img alt="Sample GIF showing the HTML Editor by PageSection" src="https://raw.githubusercontent.com/pagesection/Public-Assets/main/temp-gif-2%20(faster%2C%20unoptimized).gif" width="749">
   </a>
 </p>
