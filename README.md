@@ -1,8 +1,8 @@
 # Sample-Tailwind-CSS-Template
-A simple Tailwind CSS template (with sample text) created for the HTML Editor @ https://pagesection.com/editor
+A simple Tailwind CSS template (with sample text) created for the HTML Editor @ https://pagesection.com/editor \
 
 ## About
-PageSection provides web services, including an HTML Editor available at https://pagesection.com/editor
+PageSection provides web services, including an HTML Editor available at https://pagesection.com/editor \
 We will aim at creating and delivering HTML templates that can be edited using the editor. Feel free to checkout some of the editable HTML snippets that we are also working on at https://www.pagesection.com/templates
 
 <p align="center">
